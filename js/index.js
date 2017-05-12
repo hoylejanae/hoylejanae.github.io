@@ -13,7 +13,7 @@ var map = AmCharts.makeChart("chartdiv", {
       {
       "id": "AU",
       "description":
-      "<p>Edward 'Kolki' Mabo was a Torres Strait Islander community leader and land rights campaigner. He became concerned that his children were losing their language and cultural traditions, with Harry Penrith he set up the Black Community School in Townsville in 1973 and served as its director until 1985. The Black Community School was able to sustain itself for twelve years.</p>"
+      "<p>Edward 'Kolki' Mabo was a Torres Strait Islander community leader and land rights campaigner. He became concerned that his children were losing their language and cultural traditions. With Harry Penrith he set up the Black Community School in Townsville in 1973 and served as its director until 1985. The Black Community School was able to sustain itself for twelve years.</p>"
     },
       {
         "id": "PE",
@@ -23,7 +23,7 @@ var map = AmCharts.makeChart("chartdiv", {
       {
         "id": "US",
         "description":
-        "<p>The Native American Community Academy is a tuition-free public charter school in Albuquerque, New Mexico. Students come from more than 37 different tribes. The school integrates culture, wellness, language, community, family, and preparation for college. The Academy also believes that to preserve one's language is to preserve one's culture. Therefore they offer class in Lakota, Tiwa, and Navajo languages.</p>"
+        "<p>The Native American Community Academy is a tuition-free public charter school in Albuquerque, New Mexico. Students come from more than 37 different tribes. The school integrates culture, wellness, language, community, family, and preparation for college. The Academy also believes that to preserve one's language is to preserve one's culture. Therefore they offer classes in Lakota, Tiwa, and Navajo languages.</p>"
 
     },
       {
