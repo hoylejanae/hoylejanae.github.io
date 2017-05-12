@@ -25,8 +25,14 @@ var map = AmCharts.makeChart("chartdiv", {
         "description":
         "<p>The Native American Community Academy is a tuition-free public charter school in Albuquerque, New Mexico. Students come from more than 37 different tribes. The school integrates culture, wellness, language, community, family, and preparation for college. The Academy also believes that to preserve one's language is to preserve one's culture. Therefore they offer class in Lakota, Tiwa, and Navajo languages.</p>"
 
+    },
+      {
+        "id": "IN",
+        "description":
+        "<p>In British India a number of nationalist leaders used education to resist British imperialism. Among the institutions that developed their mission was to inculcate love for India, indigenous civilzations, local languages, and the desire to liberate India from foreign rule. One such institution was founded by a group of religious leaders that participated in the 1857 war of freedom. They established an educational institute, Darul Uloom Deoband, to prepare students to ideologically confront the British. A number of graduates from the school went on to play an active role in the fight for independence. </p>"
     }
      ]   
+      
       
   },
   "areasSettings": {
